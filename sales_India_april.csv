@@ -1,0 +1,56 @@
+transaction_id,date,customer_name,product_category,quantity,unit_price,total_amount,store_location,payment_method
+4001,2026-04-01,Varun Dhawan,Electronics,1,35000.00,35000.00,Mumbai,UPI
+4002,2026-04-01,Shruti Haasan,Clothing,2,1200.00,2400.00,Chennai,Credit Card
+4003,2026-04-02,,Home & Kitchen,1,4500.00,4500.00,Bengaluru,Cash
+4004,2026-04-02,Rakesh Roshan,Sports,,2200.00,,Delhi,UPI
+4005,2026-04-03,Mouni Roy,Beauty,3,750.00,2250.00,Kolkata,
+4006,2026-04-03,Karthik Aryan,Groceries,8,150.00,1200.00,Pune,Debit Card
+4007,2026-04-04,Divya Khosla,,2,800.00,1600.00,Hyderabad,Cash
+4008,2026-04-04,Prakash Raj,Electronics,1,55000.00,55000.00,,Net Banking
+4009,2026-04-05,Swati Reddy,Clothing,1,3200.00,3200.00,Gurugram,Credit Card
+4010,2026-04-05,,Sports,2,1800.00,3600.00,Ahmedabad,UPI
+4011,2026-04-06,Varun Dhawan,Groceries,12,110.00,1320.00,Mumbai,UPI
+4012,2026-04-06,Shruti Haasan,Beauty,2,,1900.00,Chennai,Credit Card
+4013,2026-04-07,Rakesh Roshan,,1,8500.00,8500.00,Delhi,UPI
+4014,2026-04-07,Mouni Roy,Home & Kitchen,1,6000.00,6000.00,Kolkata,
+4015,2026-04-08,Karthik Aryan,Electronics,1,42000.00,42000.00,Pune,Credit Card
+4016,2026-04-08,,Clothing,3,1500.00,4500.00,Bengaluru,Cash
+4017,2026-04-09,Divya Khosla,Groceries,,320.00,,Hyderabad,Debit Card
+4018,2026-04-09,Prakash Raj,Sports,1,4800.00,4800.00,Mumbai,UPI
+4019,2026-04-10,Swati Reddy,Beauty,1,2100.00,2100.00,Gurugram,UPI
+4020,2026-04-10,Varun Dhawan,Electronics,1,29000.00,29000.00,Mumbai,
+4021,2026-04-11,,Home & Kitchen,1,7200.00,7200.00,Delhi,Credit Card
+4022,2026-04-11,Shruti Haasan,Clothing,2,1900.00,3800.00,Chennai,UPI
+4023,2026-04-12,Rakesh Roshan,Groceries,5,,1250.00,Delhi,Cash
+4024,2026-04-12,Mouni Roy,Electronics,1,92000.00,92000.00,,Net Banking
+4025,2026-04-13,Karthik Aryan,Sports,2,2500.00,5000.00,Pune,UPI
+4026,2026-04-13,Divya Khosla,,4,650.00,2600.00,Hyderabad,Debit Card
+4027,2026-04-14,Prakash Raj,Beauty,2,1100.00,2200.00,Mumbai,Credit Card
+4028,2026-04-14,,Clothing,1,5400.00,5400.00,Gurugram,
+4029,2026-04-15,Swati Reddy,Home & Kitchen,1,14000.00,14000.00,Gurugram,UPI
+4030,2026-04-15,Varun Dhawan,Groceries,,280.00,,Mumbai,Cash
+4031,2026-04-16,Shruti Haasan,Electronics,2,18000.00,36000.00,Chennai,Credit Card
+4032,2026-04-16,Rakesh Roshan,Sports,1,6200.00,6200.00,Delhi,Debit Card
+4033,2026-04-17,Mouni Roy,,2,1500.00,3000.00,Kolkata,UPI
+4034,2026-04-17,Karthik Aryan,Beauty,1,,1350.00,Pune,Cash
+4035,2026-04-18,,Electronics,1,51000.00,51000.00,Ahmedabad,Credit Card
+4036,2026-04-18,Divya Khosla,Groceries,15,180.00,2700.00,,UPI
+4037,2026-04-19,Prakash Raj,Clothing,1,4600.00,4600.00,Mumbai,Credit Card
+4038,2026-04-19,Swati Reddy,Home & Kitchen,2,2800.00,5600.00,Gurugram,
+4039,2026-04-20,Varun Dhawan,Sports,1,3900.00,3900.00,Mumbai,UPI
+4040,2026-04-20,Shruti Haasan,Beauty,3,900.00,2700.00,Chennai,Credit Card
+4041,2026-04-21,,Groceries,6,350.00,2100.00,Delhi,Debit Card
+4042,2026-04-22,Rakesh Roshan,Electronics,,28000.00,,Delhi,UPI
+4043,2026-04-22,Mouni Roy,Clothing,2,2100.00,4200.00,Kolkata,Cash
+4044,2026-04-23,Karthik Aryan,,1,11500.00,11500.00,Pune,Credit Card
+4045,2026-04-24,Divya Khosla,Home & Kitchen,1,7800.00,7800.00,,UPI
+4046,2026-04-24,Prakash Raj,Sports,2,,9000.00,Mumbai,Credit Card
+4047,2026-04-25,Swati Reddy,Groceries,8,240.00,1920.00,Gurugram,UPI
+4048,2026-04-26,Varun Dhawan,Beauty,1,1650.00,1650.00,Mumbai,
+4049,2026-04-27,,Electronics,1,46000.00,46000.00,Bengaluru,Credit Card
+4050,2026-04-27,Shruti Haasan,Clothing,1,3800.00,3800.00,Chennai,UPI
+4051,2026-04-28,Rakesh Roshan,Home & Kitchen,,5800.00,,Delhi,Debit Card
+4052,2026-04-28,Mouni Roy,Groceries,10,140.00,1400.00,Kolkata,Cash
+4053,2026-04-29,Karthik Aryan,,2,4500.00,9000.00,Pune,Credit Card
+4054,2026-04-29,Divya Khosla,Sports,1,,5600.00,Hyderabad,UPI
+4055,2026-04-30,Prakash Raj,Electronics,1,68000.00,68000.00,Mumbai,Net Banking

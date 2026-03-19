@@ -1,0 +1,52 @@
+transaction_id,date,customer_name,product_category,quantity,unit_price,total_amount,store_location,payment_method
+2001,2026-02-01,Amit Kumar,Electronics,1,15500.00,15500.00,Delhi,UPI
+2002,2026-02-01,Kavita Sharma,Groceries,5,150.00,750.00,Mumbai,Cash
+2003,2026-02-02,,Clothing,2,1200.00,2400.00,Bengaluru,Credit Card
+2004,2026-02-02,Suresh Raina,Sports,,3500.00,,Chennai,UPI
+2005,2026-02-03,Ritu Yadav,Beauty,4,450.00,1800.00,Gurugram,
+2006,2026-02-03,Manish Tiwari,Home & Kitchen,1,8500.00,8500.00,Pune,Debit Card
+2007,2026-02-04,Anjali Menon,,3,300.00,900.00,Hyderabad,Cash
+2008,2026-02-04,Deepak Chahar,Electronics,1,45000.00,45000.00,,Net Banking
+2009,2026-02-05,Pooja Hegde,Clothing,1,2800.00,2800.00,Kolkata,Credit Card
+2010,2026-02-05,,Groceries,15,80.00,1200.00,Delhi,UPI
+2011,2026-02-06,Vikram Singh,Sports,1,5500.00,5500.00,Ahmedabad,UPI
+2012,2026-02-06,Neha Kakkar,Beauty,2,,1600.00,Mumbai,Credit Card
+2013,2026-02-07,Ravi Shastri,,1,12000.00,12000.00,Bengaluru,UPI
+2014,2026-02-07,Smriti Mandhana,Home & Kitchen,2,4000.00,8000.00,Pune,
+2015,2026-02-08,Amit Kumar,Electronics,1,32000.00,32000.00,Gurugram,Credit Card
+2016,2026-02-08,,Clothing,3,900.00,2700.00,Chennai,Cash
+2017,2026-02-09,Kavita Sharma,Groceries,,220.00,,Hyderabad,Debit Card
+2018,2026-02-09,Suresh Raina,Sports,2,1500.00,3000.00,Delhi,UPI
+2019,2026-02-10,Ritu Yadav,Beauty,1,1250.00,1250.00,Bengaluru,UPI
+2020,2026-02-10,Manish Tiwari,Electronics,1,18000.00,18000.00,Mumbai,
+2021,2026-02-11,,Home & Kitchen,1,6500.00,6500.00,Pune,Credit Card
+2022,2026-02-11,Anjali Menon,Clothing,2,1800.00,3600.00,Ahmedabad,UPI
+2023,2026-02-12,Deepak Chahar,Groceries,8,,1600.00,Gurugram,Cash
+2024,2026-02-12,Pooja Hegde,Electronics,1,75000.00,75000.00,,Net Banking
+2025,2026-02-13,Vikram Singh,Sports,1,4200.00,4200.00,Chennai,UPI
+2026,2026-02-13,Neha Kakkar,,3,600.00,1800.00,Bengaluru,Debit Card
+2027,2026-02-14,Ravi Shastri,Beauty,2,850.00,1700.00,Delhi,Credit Card
+2028,2026-02-14,,Clothing,1,3500.00,3500.00,Mumbai,
+2029,2026-02-15,Smriti Mandhana,Home & Kitchen,1,14500.00,14500.00,Pune,UPI
+2030,2026-02-15,Amit Kumar,Groceries,,350.00,,Gurugram,Cash
+2031,2026-02-16,Kavita Sharma,Electronics,2,12000.00,24000.00,Kolkata,Credit Card
+2032,2026-02-16,Suresh Raina,Sports,1,6500.00,6500.00,Delhi,Debit Card
+2033,2026-02-17,Ritu Yadav,,2,1100.00,2200.00,Bengaluru,UPI
+2034,2026-02-17,Manish Tiwari,Beauty,1,,950.00,Mumbai,Cash
+2035,2026-02-18,,Electronics,1,55000.00,55000.00,Hyderabad,Credit Card
+2036,2026-02-18,Anjali Menon,Groceries,10,180.00,1800.00,,UPI
+2037,2026-02-19,Deepak Chahar,Clothing,1,4200.00,4200.00,Gurugram,Credit Card
+2038,2026-02-19,Pooja Hegde,Home & Kitchen,2,2500.00,5000.00,Chennai,
+2039,2026-02-20,Vikram Singh,Sports,1,3800.00,3800.00,Bengaluru,UPI
+2040,2026-02-20,Neha Kakkar,Beauty,3,700.00,2100.00,Hyderabad,Credit Card
+2041,2026-02-21,,Groceries,5,320.00,1600.00,Delhi,Debit Card
+2042,2026-02-22,Ravi Shastri,Electronics,,22000.00,,Mumbai,UPI
+2043,2026-02-22,Smriti Mandhana,Clothing,2,1600.00,3200.00,Pune,Cash
+2044,2026-02-23,Amit Kumar,,1,8500.00,8500.00,Gurugram,Credit Card
+2045,2026-02-24,Kavita Sharma,Home & Kitchen,1,5400.00,5400.00,,UPI
+2046,2026-02-24,Suresh Raina,Sports,2,,7000.00,Delhi,Credit Card
+2047,2026-02-25,Ritu Yadav,Groceries,6,200.00,1200.00,Bengaluru,UPI
+2048,2026-02-25,Manish Tiwari,Beauty,1,1500.00,1500.00,Mumbai,
+2049,2026-02-26,,Electronics,1,38000.00,38000.00,Hyderabad,Credit Card
+2050,2026-02-26,Anjali Menon,Clothing,1,2900.00,2900.00,Pune,UPI
+2051,2026-02-27,Deepak Chahar,Home & Kitchen,,4200.
